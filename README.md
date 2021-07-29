@@ -1,2 +1,7 @@
 # XML-file-formatting-tool
-Excel VBA code to take 20 columns worth of data and put into 1 cell with formatting
+Excel VBA code to convert an XML dataset into a legible report.  
+
+Goals:
+  1) Rows must be easy to sort and filter
+  2) All information for each Review Comment Block must fit on the screen (no side scrolling)
+  3) Document must easy to convert to PDF + print
